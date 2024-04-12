@@ -1,0 +1,1 @@
+[TASK-1214] The system shall become active if there is valid lane information available and the vehicle speed is above 60 kph 
