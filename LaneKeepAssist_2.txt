@@ -1,0 +1,1 @@
+ [TASK-1220] Define deactivation criteria based on driver input (e.g., manual steering, turn signal activation)
